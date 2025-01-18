@@ -32,7 +32,7 @@ Technical Foundation of Q commerce!
 
 - **User Registration & Authentication:** Secure sign-up and login system powered by Auth.js.
 
-- **Product Listings:** Browse available drones for rent, including detailed specifications.
+- **Product Listings:** Browse available drones for Food, including detailed specifications.
 
 - **Cart & Checkout:** Add drones to your cart and proceed with checkout, including personal information and delivery details.
 
