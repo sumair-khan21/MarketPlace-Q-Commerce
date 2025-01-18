@@ -53,7 +53,7 @@ Technical Foundation of Q commerce!
   Animate.css (for animations)
   Sanity Client Library 
 ```
-    
+# Workflow Alignment - Step By Step
 ## How Customers Use Our App:
 
 
