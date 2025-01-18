@@ -77,5 +77,5 @@ Technical Foundation of Q commerce!
 
 ![Coding GIF](https://private-user-images.githubusercontent.com/117274549/404473912-d228813e-a450-48dd-9b60-f1a9c1ce4123.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzcxNTY4MTIsIm5iZiI6MTczNzE1NjUxMiwicGF0aCI6Ii8xMTcyNzQ1NDkvNDA0NDczOTEyLWQyMjg4MTNlLWE0NTAtNDhkZC05YjYwLWYxYTljMWNlNDEyMy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMTE3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDExN1QyMzI4MzJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iMDE0MGE4OTlmNThhNGJjMThlODI1YjI0ZjAyOTkxZTlhYmJjNWQwYzhlMTRmMzZkZjA0MjFkZDA3NGRhYjc1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.k2YFnClVnwPyeX0PH4TvuMJrngo_0wBfqOFYdcb9bI0)
 
-**Conclusion** This project provides an efficient and scalable platform for selling food. The use of Nextjs , MongoDB and Sanity CMS ensures fast performance, easy content management, and rich user experience.
+**Conclusion:** This project provides an efficient and scalable platform for selling food. The use of Nextjs , MongoDB and Sanity CMS ensures fast performance, easy content management, and rich user experience.
 
